@@ -1,0 +1,1 @@
+# BusinessCentral---Edmx-To-Yaml-Conventer
