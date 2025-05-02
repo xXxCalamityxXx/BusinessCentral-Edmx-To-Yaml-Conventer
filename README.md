@@ -16,3 +16,4 @@ This script fetches the EDMX and OpenAPI specification for your Business Central
 3.  **Retrieve Files:** The script will save the EDMX file as `edmx.xml` and the OpenAPI specification as `openapi.yaml` in the same directory.
 
 More flexible C# executable with parameters is comming later.
+Oh, and i don't know how reliable this code is, use it on own risk.
