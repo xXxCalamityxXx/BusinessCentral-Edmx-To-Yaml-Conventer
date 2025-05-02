@@ -4,9 +4,9 @@
 
 This script fetches the EDMX and OpenAPI specification for your Business Central API.
 
-1.  **Execute the Script:** Open PowerShell and run the `fetch.ps1` script.
+1.  **Execute the Script:** Open PowerShell and run the `RUN.ps1` script.
     ```bash
-    ./fetch.ps1
+    ./RUN.ps1
     ```
 2.  **Provide Details:** The script will prompt you for the following information. Enter each value and press Enter:
     *   `BaseUrl`: The base URL of your Business Central API (e.g., `https://api.businesscentral.dynamics.com/v2.0/YOURTENANTID/Sandbox/api/v2.0`)
