@@ -15,4 +15,4 @@ This script fetches the EDMX and OpenAPI specification for your Business Central
     *   `ClientSecret`: Your Azure AD Application Client Secret
 3.  **Retrieve Files:** The script will save the EDMX file as `edmx.xml` and the OpenAPI specification as `openapi.yaml` in the same directory.
 
-More flexible C# is comming later.
+More flexible C# executable with parameters is comming later.
